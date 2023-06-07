@@ -1,8 +1,8 @@
 =======================
 ## Installation
 ```
-$ git clone https://github.com/sajid-karim/Sqlite-db
-$ cd Sqlite-db
+$ git clone https://github.com/sajid-karim/sqlite-db-c
+$ cd Sqlite-db-c
 $ make
 ```
 
